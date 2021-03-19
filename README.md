@@ -1,5 +1,5 @@
 # Wizer.me hax
- - A javascript code snippet to show Wizer.me answers. Big hax. Bug junk.
+ - A javascript code snippet to show Wizer.me answers. Big hax. Big junk.
 ### 🔮 How to install/use?
 1. Install Tampermonkey into your browser. ([Link](https://www.tampermonkey.net))
 2. On the top-right, click on Tampermonkey and inside that open Dashboard.
